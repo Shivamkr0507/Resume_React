@@ -39,8 +39,8 @@ function SmallIntro() {
     return (
         <div className='text-white text-lg px-20 px-10 md:pl-10'>
             <Reveal color="#BA45B8">
-                <p>I am a highly skilled programmer with expertise in <strong>M.E.R.N.</strong> Stack. 
-                With a passion for solving complex problems and a strong foundation in programming languages, 
+                <p>I am a skilled programmer with expertise in <strong>SPRINGBOOT</strong> Stack. 
+                 A strong foundation in programming languages, 
                 I strive to create efficient and scalable solutions.</p>
             </Reveal>
             <br />

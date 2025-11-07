@@ -57,14 +57,9 @@ export const Intro = ({ title }) => {
                                 2000,
                                 'I make Java Applications.',
                                 2000,
-                                'I have expertise in Data Structures and Algorithms.',
-                                2000,
-                                'I specialize in Tailwind CSS and Responsive Design.',
-                                2000,
-                                'I solve Complex Problems.',
-                                2000,
-                                'I am passionate about Clean Code.',
-                                2000,
+                            
+                               
+                               
                                 'I am always Learning new Skills.',
                                 2000,
                                 'I enjoy Learning new Technologies.',
