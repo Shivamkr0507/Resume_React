@@ -10,6 +10,7 @@ import { WorkExp } from './components/WorkExp';
 import { name } from './details';
 import { Education2 } from './components/Education2';
 
+
 function App() {
   const title = name;
 
